@@ -1,17 +1,11 @@
-# expense_tracker
+# Simple Expense Tracker App
 
-A new Flutter project.
+This is a minimalist expense tracker application built using Flutter. The app allows users to track their expenses across four categories: food, travel, leisure, and work. It features a simple chart to visualize expenses and a list to display all added expenses. Users can add, save, and delete expenses easily.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# expense-tracker" 
+- **Expense Categories:** Categorize expenses into food, travel, leisure, and work.
+- **Expense List:** View all recorded expenses in a scrollable list.
+- **Simple Chart:** Visualize expense distribution through a simple chart.
+- **Add Expenses:** Easily add new expenses with the specified amount and category.
+- **Delete Expenses:** Remove recorded expenses from the list.
